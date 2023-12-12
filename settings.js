@@ -17,11 +17,11 @@ global.APIKeys = {
 
 //AUTO FUNCTIONS ( 📵 DONT EDIT 📵 ) ITS FOR NEXT UPDATE
 
-global.autoTyping = false //auto tying in gc (true to on, false to off)
-global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
-global.autoReadGc = false //auto reading in gc (true to on, false to off)
-global.autobio = false  // auto bio system checking on Developing Leval
-global.autoRecord = false //auto recording (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
+global.autoreadpmngc = true //auto reading in gc and pm (true to on, false to off)
+global.autoReadGc = true //auto reading in gc (true to on, false to off)
+global.autobio = true  // auto bio system checking on Developing Leval
+global.autoRecord = true  //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //VIDEO MENU 
@@ -37,13 +37,13 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
-global.ytname = "YT: TGM Arcade" //ur yt chanel name
+global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ MODI" //ur owner name
+global.ytname = "YT: MDY bos" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
+global.owner = ['94704394717']
 global.ownertag = '94711421243' //ur tag number
 global.botnumber = '94764679736' //Add your Bot Number For Log
 global.botname = 'CYBER-X BETA EDITION' //ur bot name
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['94704394717'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
